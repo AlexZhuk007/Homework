@@ -102,7 +102,7 @@ Git clone
 
 git remote add origin url на репозиторий (origin название репозитория)
 
-git branch-M main - показывает какая ветка будет главной
+git branch -M main - переименовывает ветку master в main. Так хочет гитхаб
 
 git push -u origin main - закачивает репозиторий название и ветка
 
